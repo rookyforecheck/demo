@@ -28,7 +28,7 @@ A Next.js starter that includes all you need to build amazing projects 🔥. For
 
 ## 🚀 Getting started
 
-The best way to start with this template is using `create-next-app`.
+The best way to start with this template is using `create-next-app`...
 
 ```
 npx create-next-app ts-next -e https://github.com/chhpt/nextjs-starter
